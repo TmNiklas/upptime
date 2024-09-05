@@ -4,19 +4,19 @@
     "url": "https://ctrl.welser-it.de",
     "icon": "https://icons.duckduckgo.com/ip3/ctrl.welser-it.de.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "88.66%",
-    "uptimeDay": "88.66%",
-    "uptimeWeek": "88.66%",
-    "uptimeMonth": "88.66%",
-    "uptimeYear": "88.66%",
-    "time": 477,
-    "timeDay": 477,
-    "timeWeek": 477,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "status": "up",
+    "uptime": "81.59%",
+    "uptimeDay": "81.59%",
+    "uptimeWeek": "81.59%",
+    "uptimeMonth": "81.59%",
+    "uptimeYear": "81.59%",
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-09-05": 19
+      "2024-09-05": 33
     }
   }
 ]
