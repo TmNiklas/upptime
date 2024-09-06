@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrl.welser-it.de.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "93.26%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "93.26%",
+    "uptime": "25.38%",
+    "uptimeDay": "25.38%",
+    "uptimeWeek": "25.38%",
+    "uptimeMonth": "25.38%",
+    "uptimeYear": "25.38%",
     "time": 518,
     "timeDay": 518,
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-09-05": 19
+      "2024-09-06": 83,
+      "2024-09-05": 678
     }
   }
 ]
